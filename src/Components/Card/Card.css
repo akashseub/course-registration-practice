@@ -1,0 +1,25 @@
+.card-container{
+    width: 300px;
+    align-items: center;
+    padding: 10px;
+    background-color: aliceblue;
+    border-radius: 10px;
+}
+
+.card-container img{
+    width: 100%;
+    size: cover;
+    border-radius: 10px;
+}
+
+.card-price{
+    display: flex;
+    justify-content: space-between;
+}
+
+.card-container button{
+    width: 100%;
+    padding: 8px;
+    color: white;
+    background-color: rgb(22, 62, 172);
+}

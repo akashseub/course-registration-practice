@@ -1,0 +1,75 @@
+[
+    {
+      "name": "Web Development Fundamentals",
+      "image": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200203200336/13-Things-You-Should-Know-Before-You-Enter-In-Web-Development.png",
+      "price": 49.99,
+      "duration": "3 hours",
+      "description": "Learn the basics of web development, including HTML, CSS, and introductory JavaScript.",
+      "enrollmentLink": "https://example.com/enroll/web_dev_fundamentals"
+    },
+    {
+      "name": "JavaScript Basics",
+      "image": "https://www.freecodecamp.org/news/content/images/2021/06/javascriptfull.png",
+      "price": 59.99,
+      "duration": "6 hours",
+      "description": "Master the fundamentals of JavaScript programming for web development.",
+      "enrollmentLink": "https://example.com/enroll/javascript_basics"
+    },
+    {
+      "name": "React Frontend Development",
+      "image": "https://www.creativeitinstitute.com/images/course/course_1674371266.jpg",
+      "price": 79.99,
+      "duration": "8 hours",
+      "description": "Build modern, responsive web applications with the React.js library.",
+      "enrollmentLink": "https://example.com/enroll/react_frontend"
+    },
+    {
+      "name": "Node.js Back-End Development",
+      "image": "https://example.com/nodejs_backend.jpg",
+      "price": 69.99,
+      "duration": "4 hours",
+      "description": "Learn server-side programming with Node.js and build robust back-end systems.",
+      "enrollmentLink": "https://example.com/enroll/nodejs_backend"
+    },
+    {
+      "name": "Python Programming",
+      "image": "https://example.com/python_programming.jpg",
+      "price": 69.99,
+      "duration": "7 hours",
+      "description": "Discover the world of Python programming for various applications and use cases.",
+      "enrollmentLink": "https://example.com/enroll/python_programming"
+    },
+    {
+      "name": "Data Science Fundamentals",
+      "image": "https://example.com/data_science.jpg",
+      "price": 89.99,
+      "duration": "5 hours",
+      "description": "Get started with data science and analytics using Python and data manipulation libraries.",
+      "enrollmentLink": "https://example.com/enroll/data_science"
+    },
+    {
+      "name": "Machine Learning with Python",
+      "image": "https://example.com/machine_learning.jpg",
+      "price": 99.99,
+      "duration": "9 hours",
+      "description": "Explore machine learning concepts and build predictive models with Python.",
+      "enrollmentLink": "https://example.com/enroll/machine_learning"
+    },
+    {
+      "name": "Artificial Intelligence in Healthcare",
+      "image": "https://example.com/ai_healthcare.jpg",
+      "price": 109.99,
+      "duration": "2 hours",
+      "description": "Apply artificial intelligence techniques to healthcare and medical data analysis.",
+      "enrollmentLink": "https://example.com/enroll/ai_healthcare"
+    },
+    {
+      "name": "Cybersecurity Essentials",
+      "image": "https://example.com/cybersecurity.jpg",
+      "price": 79.99,
+      "duration": "10 hours",
+      "description": "Learn essential cybersecurity concepts and practices to secure digital environments.",
+      "enrollmentLink": "https://example.com/enroll/cybersecurity"
+    }
+  ]
+  
