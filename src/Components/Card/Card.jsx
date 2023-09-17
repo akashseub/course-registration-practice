@@ -1,6 +1,6 @@
 import './Card.css'
 
-const Card = ({card}) => {
+const Card = ({card, handleClicked}) => {
 
     const {name, image, price, duration, description} = card; 
 
@@ -13,7 +13,7 @@ const Card = ({card}) => {
                 <p>Price: {price}</p>
                 <p>Credit: {duration}</p>
             </div>
-            <button>Select</button>
+            <button onClick={()=>handleClicked(card)}>Select</button>
         </div>
     );
 };

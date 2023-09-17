@@ -13,12 +13,20 @@ const Cards = () => {
             .then(data => setCards(data))
     }, [])
 
+    function handleClicked(card){
+        console.log(card)
+    }
+
     return (
         <div>
             <div className="body-container">
                 <div className="cards-container">
                     {
-                        cards.map(card => <Card key={name} card={card}></Card>)
+                        cards.map(card => <Card 
+                            key={name} 
+                            card={card}
+                            handleClicked = {handleClicked}
+                        ></Card>)
                     }
                 </div>
                 <div>
