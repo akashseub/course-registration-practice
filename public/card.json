@@ -1,75 +1,83 @@
 [
-    {
-      "name": "Web Development Fundamentals",
-      "image": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200203200336/13-Things-You-Should-Know-Before-You-Enter-In-Web-Development.png",
-      "price": 49.99,
-      "duration": "3 hours",
-      "description": "Learn the basics of web development, including HTML, CSS, and introductory JavaScript.",
-      "enrollmentLink": "https://example.com/enroll/web_dev_fundamentals"
-    },
-    {
-      "name": "JavaScript Basics",
-      "image": "https://www.freecodecamp.org/news/content/images/2021/06/javascriptfull.png",
-      "price": 59.99,
-      "duration": "6 hours",
-      "description": "Master the fundamentals of JavaScript programming for web development.",
-      "enrollmentLink": "https://example.com/enroll/javascript_basics"
-    },
-    {
-      "name": "React Frontend Development",
-      "image": "https://www.creativeitinstitute.com/images/course/course_1674371266.jpg",
-      "price": 79.99,
-      "duration": "8 hours",
-      "description": "Build modern, responsive web applications with the React.js library.",
-      "enrollmentLink": "https://example.com/enroll/react_frontend"
-    },
-    {
-      "name": "Node.js Back-End Development",
-      "image": "data:image/jpeg;base64,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",
-      "price": 69.99,
-      "duration": "4 hours",
-      "description": "Learn server-side programming with Node.js and build robust back-end systems.",
-      "enrollmentLink": "https://example.com/enroll/nodejs_backend"
-    },
-    {
-      "name": "Python Programming",
-      "image": "https://www.freecodecamp.org/news/content/images/2022/02/Banner-10.png",
-      "price": 69.99,
-      "duration": "7 hours",
-      "description": "Discover the world of Python programming for various applications and use cases.",
-      "enrollmentLink": "https://example.com/enroll/python_programming"
-    },
-    {
-      "name": "Data Science Fundamentals",
-      "image": "https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2014/04/datasc-adv-datasc-trainingimg1.jpg",
-      "price": 89.99,
-      "duration": "5 hours",
-      "description": "Get started with data science and analytics using Python and data manipulation libraries.",
-      "enrollmentLink": "https://example.com/enroll/data_science"
-    },
-    {
-      "name": "Machine Learning with Python",
-      "image": "https://www.creativeitinstitute.com/images/course/course_1662804460.jpg",
-      "price": 99.99,
-      "duration": "9 hours",
-      "description": "Explore machine learning concepts and build predictive models with Python.",
-      "enrollmentLink": "https://example.com/enroll/machine_learning"
-    },
-    {
-      "name": "Artificial Intelligence in Healthcare",
-      "image": "https://www.classcentral.com/report/wp-content/uploads/2021/05/ai-healthcare.jpg",
-      "price": 109.99,
-      "duration": "2 hours",
-      "description": "Apply artificial intelligence techniques to healthcare and medical data analysis.",
-      "enrollmentLink": "https://example.com/enroll/ai_healthcare"
-    },
-    {
-      "name": "Cybersecurity Essentials",
-      "image": "https://training.linuxfoundation.org/wp-content/uploads/2023/03/Training_LFC108_course_free.png",
-      "price": 79.99,
-      "duration": "10 hours",
-      "description": "Learn essential cybersecurity concepts and practices to secure digital environments.",
-      "enrollmentLink": "https://example.com/enroll/cybersecurity"
-    }
-  ]
-  
+  {
+    "id": "1",
+    "name": "Web Development Fundamentals",
+    "image": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200203200336/13-Things-You-Should-Know-Before-You-Enter-In-Web-Development.png",
+    "price": 49.99,
+    "duration": "3 hours",
+    "description": "Learn the basics of web development, including HTML, CSS, and introductory JavaScript.",
+    "enrollmentLink": "https://example.com/enroll/web_dev_fundamentals"
+  },
+  {
+    "id": "2",
+    "name": "JavaScript Basics",
+    "image": "https://www.freecodecamp.org/news/content/images/2021/06/javascriptfull.png",
+    "price": 59.99,
+    "duration": "6 hours",
+    "description": "Master the fundamentals of JavaScript programming for web development.",
+    "enrollmentLink": "https://example.com/enroll/javascript_basics"
+  },
+  {
+    "id": "3",
+    "name": "React Frontend Development",
+    "image": "https://www.creativeitinstitute.com/images/course/course_1674371266.jpg",
+    "price": 79.99,
+    "duration": "8 hours",
+    "description": "Build modern, responsive web applications with the React.js library.",
+    "enrollmentLink": "https://example.com/enroll/react_frontend"
+  },
+  {
+    "id": "4",
+    "name": "Node.js Back-End Development",
+    "image": "https://miro.medium.com/v2/resize:fit:1400/1*_kHQn4pRlDDP0nb6nNi5ag.png",
+    "price": 69.99,
+    "duration": "4 hours",
+    "description": "Learn server-side programming with Node.js and build robust back-end systems.",
+    "enrollmentLink": "https://example.com/enroll/nodejs_backend"
+  },
+  {
+    "id": "5",
+    "name": "Python Programming",
+    "image": "https://www.freecodecamp.org/news/content/images/2022/02/Banner-10.png",
+    "price": 69.99,
+    "duration": "7 hours",
+    "description": "Discover the world of Python programming for various applications and use cases.",
+    "enrollmentLink": "https://example.com/enroll/python_programming"
+  },
+  {
+    "id": "6",
+    "name": "Data Science Fundamentals",
+    "image": "https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2014/04/datasc-adv-datasc-trainingimg1.jpg",
+    "price": 89.99,
+    "duration": "5 hours",
+    "description": "Get started with data science and analytics using Python and data manipulation libraries.",
+    "enrollmentLink": "https://example.com/enroll/data_science"
+  },
+  {
+    "id": "7",
+    "name": "Machine Learning with Python",
+    "image": "https://www.creativeitinstitute.com/images/course/course_1662804460.jpg",
+    "price": 99.99,
+    "duration": "9 hours",
+    "description": "Explore machine learning concepts and build predictive models with Python.",
+    "enrollmentLink": "https://example.com/enroll/machine_learning"
+  },
+  {
+    "id": "8",
+    "name": "Artificial Intelligence in Healthcare",
+    "image": "https://www.classcentral.com/report/wp-content/uploads/2021/05/ai-healthcare.jpg",
+    "price": 109.99,
+    "duration": "2 hours",
+    "description": "Apply artificial intelligence techniques to healthcare and medical data analysis.",
+    "enrollmentLink": "https://example.com/enroll/ai_healthcare"
+  },
+  {
+    "id": "9",
+    "name": "Cybersecurity Essentials",
+    "image": "https://training.linuxfoundation.org/wp-content/uploads/2023/03/Training_LFC108_course_free.png",
+    "price": 79.99,
+    "duration": "10 hours",
+    "description": "Learn essential cybersecurity concepts and practices to secure digital environments.",
+    "enrollmentLink": "https://example.com/enroll/cybersecurity"
+  }
+]
